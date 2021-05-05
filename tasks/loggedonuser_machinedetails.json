@@ -1,0 +1,6 @@
+{
+    "description": "This script outputs computername, fqdn and current logged on user of the agent",
+    "puppet_task_version": 1,
+    "input_method": "powershell"  
+}
+
